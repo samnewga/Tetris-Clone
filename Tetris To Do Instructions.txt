@@ -1,0 +1,10 @@
+Save Scores To Disk
+Create Selectable Difficulty (Allow selection of start from 1 to 19)
+Create Start Menu with Start Game, Options (selectable Difficulty), Instructions, High Scores and Exit buttons
+High scores will read from disk and display the top 3 scores.
+Start will run main game loop and save the game and return to main menu on load
+Exit button will close application
+
+Hard Drop Functionality
+
+Any potential Refactoring
